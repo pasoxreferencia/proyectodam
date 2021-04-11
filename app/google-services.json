@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537490328728",
+    "project_id": "proyecto-dam-afb4a",
+    "storage_bucket": "proyecto-dam-afb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537490328728:android:7416cef5c2e449645254ed",
+        "android_client_info": {
+          "package_name": "com.example.proyectodam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537490328728-m0e6iliu9nknjn1quhvelbcf8uhfnifo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hwtKsNLwSFl8P80tr04t7vb1KTFVL30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537490328728-m0e6iliu9nknjn1quhvelbcf8uhfnifo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
